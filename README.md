@@ -40,8 +40,8 @@ I'm currently applying what I’ve learned through hands-on labs and real-world 
 ## 📩 Contact
 
 Feel free to connect or reach out:
-- *LinkedIn*: [www.linkedin.com](https://www.linkedin.com/in/seif-eldein-ahmad-mohammad-2263362bb)
-- *GitHub*: [www.githup.com](https://github.com/SeifEldienAhmad)
+- *LinkedIn*: [Seif Eldien Ahmad Mohammad](https://www.linkedin.com/in/seif-eldein-ahmad-mohammad-2263362bb)
+- *GitHub*: [@SeifEldienAhmad](https://github.com/SeifEldienAhmad)
 ---
 
 > This is part of my Red Teaming learning journey. Stay tuned for more!
