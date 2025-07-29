@@ -14,7 +14,7 @@ This repository contains notes, summaries, and learning progress related to my s
 - Bash scripting basics
 - Wildcards and pattern matching
 - Regular Expressions (Regex)
-- Task Scheduling using 'cron'
+- Task Scheduling using `cron` and `at`
 
 ---
 
