@@ -23,10 +23,10 @@ This repository contains notes, summaries, and learning progress related to my s
 This repo is a *theoretical overview and roadmap*. If you're looking for practical examples:
 
 - 👉 *Bash scripts examples*:  
-  [bash-scripts](https://github.com/your-username/bash-scripts](https://github.com/SeifEldienAhmad/BashScripts )
+  [BashScripts](https://github.com/SeifEldienAhmad/BashScripts)
 
 - 👉 *Linux command references*:  
-  [linux-cheat-sheet](https://github.com/your-username/linux-cheat-sheet](https://github.com/SeifEldienAhmad/Linux-cheatsheet-seif )
+  [linux-cheatsheet](https://github.com/SeifEldienAhmad/Linux-cheatsheet-seif)
 
 Make sure to check them out for hands-on practice and command-line utilities!
 
