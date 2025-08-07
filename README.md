@@ -41,7 +41,7 @@ I'm currently applying what I’ve learned through hands-on labs and real-world 
 ## 📩 Contact
 
 Feel free to connect or reach out:
-- *LinkedIn*: [Seif Eldien Ahmad Mohammad](https://www.linkedin.com/in/seif-eldein-ahmad-mohammad-2263362bb)
+- *LinkedIn*: [Seif Eldien Ahmad Mohammad](https://www.linkedin.com/in/seifeldienahmad)
 - *GitHub*: [@SeifEldienAhmad](https://github.com/SeifEldienAhmad)
 ---
 <sub><i>Keywords: Seif Eldien, Seif Ahmad, Seif Mohammed, سيف الدين, Cybersecurity, Linux, Red Team, Red Teamer, Ethical Hacking, Offensive Security, Information Security, Penetration Testing, Bug Bounty, Seif Eldien Ahmad Mohammad, Seif Portfolio, GitHub Portfolio, Linux Scripts, Parrot OS, Bash Tools, Cyber Defense, Digital Forensics, Linux Administration, Open Source, InfoSec, Cyber Student, Seif OSINT</i></sub>
